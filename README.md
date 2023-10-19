@@ -9,6 +9,6 @@ During my studies, I have honed my ability to work with big and complex data set
 and utilized data analytical techniques to translate those data sets into visualization and summaries for better digestion of information for the readers.
 
 In this portfolio, I am going to constantly add new projects that showcase my data analytical abilities. These are all learning projects as I am no expert in the field at the moment, but I hope to start my career in data analytics and hopefully learn about wonders and impact
-of data. I am constantly looking for opportunities to expand my knowledge whether its through the internet or someone I met while shopping for groceries. I am passionate about discovering new insights and knowledge.
+of data.
 
 This is a repository to showcase my skills and track my learning progress in Data Analytics / Data Science. Enjoy!
